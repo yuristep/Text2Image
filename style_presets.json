@@ -1,0 +1,26 @@
+[
+  {
+    "name": "KANDINSKY",
+    "title": "Кандинский",
+    "titleEn": "Kandinsky",
+    "image": "https://cdn.fusionbrain.ai/static/download/img-style-kandinsky.png"
+  },
+  {
+    "name": "UHD",
+    "title": "Детальное фото",
+    "titleEn": "Detailed photo",
+    "image": "https://cdn.fusionbrain.ai/static/download/img-style-detail-photo.png"
+  },
+  {
+    "name": "ANIME",
+    "title": "Аниме",
+    "titleEn": "Anime",
+    "image": "https://cdn.fusionbrain.ai/static/download/img-style-anime.png"
+  },
+  {
+    "name": "DEFAULT",
+    "title": "Свой стиль",
+    "titleEn": "No style",
+    "image": "https://cdn.fusionbrain.ai/static/download/img-style-personal.png"
+  }
+]

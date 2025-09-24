@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+Scripts/
+*.py[cod]
+*$py.class
+
+# Environments
+!.env.example
+.env
+.env.*
+.venv/
+venv/
+ENV/
+examples/*
+
+# Packaging
+build/
+dist/
+.eggs/
+*.egg-info/
+
+# Logs
+log/
+*.log
+
+# Testing
+tests/
+.pytest_cache/
+.tox/
+.nox/
+.coverage*
+
+# IDE
+.vscode/
+.idea/
+
+# Outputs
+*.png
+*.jpg
+
+# Local Python installs that must not live in repo
+Lib/
+Scripts/

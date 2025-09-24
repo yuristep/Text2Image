@@ -1,0 +1,9 @@
+{
+  "URL": "https://api-key.fusionbrain.ai/",
+  "KEYS": {
+    "RUN": "key/api/v1/pipeline/run",
+    "PIPELINES": "key/api/v1/pipelines",
+    "availability": "key/api/v1/pipeline/availability",
+    "status": "key/api/v1/pipeline/status/"
+  }
+}
